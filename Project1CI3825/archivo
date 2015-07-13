@@ -1,0 +1,10 @@
+ma /file1.dat
+ma /file2.dat
+ma /file2.tex
+md /Cursos
+md /Juegos
+md /Cursos/ci-3881
+ma /Cursos/ci-3881/clases.tex
+rm /Cursos
+ls /Cursos
+ls /Juegos
